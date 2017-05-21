@@ -1,0 +1,23 @@
+{
+  "name": "electronApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secabhi/electronApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/secabhi/electronApp/issues"
+  },
+  "homepage": "https://github.com/secabhi/electronApp#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
